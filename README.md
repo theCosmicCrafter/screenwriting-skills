@@ -2,7 +2,7 @@
 
 [中文版](README_ZH.md)
 
-12 Claude Code skills for screenwriting and dramaturgy, distilled from 19 books (Chinese, American and Japanese) plus two complete master-work corpora: Chekhov's plays and Ozu Yasujiro's screenplays.
+13 Claude Code skills for screenwriting and dramaturgy, distilled from 19 books (Chinese, American and Japanese) plus two complete master-work corpora: Chekhov's plays and Ozu Yasujiro's screenplays.
 
 Skill bodies are written in Chinese (the sources and quotations are Chinese translations); frontmatter descriptions are in English with Chinese keywords so both languages trigger them.
 
@@ -17,6 +17,7 @@ Skill bodies are written in Chinese (the sources and quotations are Chinese tran
 
 | Skill | What it covers | Main sources |
 |---|---|---|
+| `sw-workflow` | Project orchestrator: stage map (premise → structure → character → scenes → draft → revision → submission) naming which skill to call, per-stage deliverables and advisory exit checks, entry paths (from scratch / existing draft / adaptation / short form / series), and a `story-bible.md` convention that keeps all project state in one file so work resumes across sessions | (meta-skill, no new sources; see issue #1) |
 | `sw-story-structure` | Paradigm & plot points, Save the Cat beats and board, McKee's event/scene/sequence/act, inciting incident, progressive complications, crisis-climax-resolution, subplots, Hoxter's nine beats, Hicks' attraction/anticipation/satisfaction, Lu Jun's 起承转合, eight openings, eight endings | Field, Snyder, McKee *Story*, Hoxter, Hicks, Lu Jun |
 | `sw-premise-theme` | Premise as tyrant, controlling idea (value + cause), the "third rail" (desire vs misbelief), five premise questions, logline tests, 选材/开掘/视角/戏核/冲突要真/情节要奇 | Egri, McKee, Cron, Hicks, Hoxter, Snyder, Lu Jun |
 | `sw-character-conflict` | Three-dimensional character, orchestration, unity of opposites, pivotal character, rising vs static vs jumping conflict, transition; Freud/Erikson/Jung/Campbell/Murdock/Adler/May for motive; 人物要活八要, 对手要强, 给对手一把刀 | Egri, Indick, McKee, Hicks, Cron, Snyder, Lu Jun |

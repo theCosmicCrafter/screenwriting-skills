@@ -1,6 +1,6 @@
 ---
 name: sw-format-adaptation
-description: Screenplay format, page craft, the writing process and adaptation (剧本格式/写作流程/改编) — merged from Wendy Henson's Screenwriting Step by Step (spec format rules, action paragraphs, transitions, story-doing, dramatic premise, subplots), Richard Walter (format, page count, cover, master scenes, flashback, montage, feedback symbols, work habits, revision), Neill Hicks (selling script vs shooting script, harem template, draft chain), Syd Field (form, master shot, card method, adaptation as original work), Robert McKee (description in present tense, image systems, adaptation principles, step outline → treatment → screenplay), Julian Hoxter (format elements, outline vs treatment, adaptation four questions), Diamond & Weissman (one-page nine-step, character chart, meld, connective tissue, set pieces, submission draft) and Eric Bork (idea test before writing). Use when formatting a spec script, deciding what goes in action lines, planning drafts and outlines, cutting pages, adapting a novel/play/true story, or preparing a submission-ready draft.
+description: Screenplay format, page craft, the writing process and adaptation (剧本格式/写作流程/改编) — merged from Wendy Henson's Screenwriting Step by Step (spec format rules, action paragraphs, transitions, story-doing, dramatic premise, subplots), Richard Walter (format, page count, cover, master scenes, flashback, montage, feedback symbols, work habits, revision), Neill Hicks (selling script vs shooting script, harem template, draft chain), Syd Field (form, master shot, card method, adaptation as original work), Robert McKee (description in present tense, image systems, adaptation principles, step outline → treatment → screenplay), Julian Hoxter (format elements, outline vs treatment, adaptation four questions), Diamond & Weissman (one-page nine-step, character chart, meld, connective tissue, set pieces, submission draft) and Eric Bork (idea test before writing) — plus an exact typographic grid (margins, indents, column widths), element conventions (V.O./O.S., MORE/CONT'D, dual dialogue, montage, intercut, super), a machine-writable output contract (Fountain, with forced markers for Chinese, and PDF/.fdx render paths), and modern Asian industry formats (Chinese 场号制 影视剧本格式, Japanese 柱・ト書き・セリフ / 決定稿). Use when formatting a spec script, choosing the output file format for a script, deciding what goes in action lines, planning drafts and outlines, cutting pages, adapting a novel/play/true story, writing a Chinese TV/film or Japanese-style script page, or preparing a submission-ready draft.
 ---
 
 # 格式·流程·改编（Format, Process & Adaptation）
@@ -28,13 +28,83 @@ description: Screenplay format, page craft, the writing process and adaptation (
 - **动作段落**：现在时、主动语态（"乔被保罗带着"→"保罗带着乔"）；像列表不像描述；先时间季节天气再地点物理特征；只写摄影机能拍演员能演的（"她站在那儿思考着"拍不到）；删形容词副词；人物首次出现大写并附年龄；道具与合成音效大写（提醒制片经理与录音师）；声效只写看不见来源的（雷声、电话铃、画外狗吠）；段落间双倍行距，"一页剧本不是一堵文字墙"。
 - **永远不提摄影机**：无 CU/POV/切/叠化/"我们看到/听到"；用文本暗示镜头（场景标题＝广角，旗帜＝中景，达伦走向麦克风＝特写）；每场结尾自然是切，不写"切至"（去掉可减十页）；淡入淡出叠化极少需要时全大写；P.O.V. 只在望远镜/主观镜头等必要处。
 - **只写主场景**（master scene）：具有思想和动作连续性的戏剧化情节可涉多地点（乔治和马莎从客厅吵到卧室门到落地窗仍是一场"室内 乔治和马莎的家"）；间谍热狗摊接头只写全景＋必要细节，分解镜头是剪辑师的事。
-- **对白**：栏宽 3.25 英寸居中；人物名大写；不断页（用动作或他人插话打断，实在不行"（另见下页）"）；台词延伸过页＝"哈姆雷特综合征"；括号附加说明≤3 词只用动词（微笑/紧张），99% 不需要，多人场面需说明对谁说例外；不划线强调、不用惊叹号、省略号一次两次可第三次太多；（OS）画外台词、（VO）旁白尽量避免；不写方言音译；台词必须是一句话不能是呻吟哼哈（"S. or N."）。
+- **对白**：距页左约 2.5 英寸起、栏宽约 3.5 英寸的左对齐窄栏（**不是页面居中**；汉森原书"距左缘 3 英寸宽 3.25 英寸"是同一栏的另一种量法），完整版面规格见下一节；人物名大写；不断页（用动作或他人插话打断，实在不行"（另见下页）"）；台词延伸过页＝"哈姆雷特综合征"；括号附加说明≤3 词只用动词（微笑/紧张），99% 不需要，多人场面需说明对谁说例外；不划线强调、不用惊叹号、省略号一次两次可第三次太多；（OS）画外台词、（VO）旁白尽量避免；不写方言音译；台词必须是一句话不能是呻吟哼哈（"S. or N."）。
 - **人物介绍**：只给性别与年龄（沃尔特）；用抽象特色动作形容（"干枯皱缩的脸像干掉的柿子"）不写身高体重肤色除非整体性要求；不写人物表、人物小传、选角建议；名字显示性别、避免同音同首字母。
 - **转场依据**：地点或时间转变、增减人物、改变戏剧目的。
 - **特效**只写观众看到什么；蒙太奇先考虑避免，作为把复杂连续场面简单化的工具可写"追逐"列显著特征（十三页缩到五分之一页）。
 - **闪回**：理想上不写"闪回"字样；担心读者不清楚可标"外景 谷仓 闪回"——"类似作弊的手段"；作弊（指明这是老板/这两人是姐妹）可自然少量做；"温和地提醒"（"简妮，我们前面看到的那个在洗衣店破坏自动贩卖机的女人"）允许。
 - **电邮提交**：PDF 不是 Word；不标明专为电视写。
 - 拼写标点：老学究，纸质字典；"从未见过对白闪光角色难忘的剧本在格式拼写语法标点上乱七八糟"。
+
+---
+
+## 二之二、版面规格、元素级约定与输出格式
+
+> 本节数字来自对多部专业排版剧本（US Letter、Courier 12）的实测与 Final Draft 默认模板，元素级约定与中日行业格式为行业通行做法，**不出自本 skill 的 19 本来源书**（由 issue #2 提议补入）。范例见 [reference.md](reference.md) 第十节。
+
+### 版面规格表（US Letter，Courier 12：每英寸 10 字符、每英寸 6 行）
+
+| 元素 | 距页左起点 | 宽度 / 右止 | 备注 |
+|---|---|---|---|
+| 页边距 | 左 1.5"，右 1.0"，上 1.0"，下 1.0" | 每页约 55 行 | 左边宽是为装订 |
+| 场景标题 | 1.5"（顶格） | 到 7.5"，约 60 字符 | 全大写；前空两行（部分模板一行） |
+| 动作段落 | 1.5"（顶格） | 6.0" 宽，约 60 字符 | 段间空一行 |
+| 人物名 | 3.7"（约第 22 字符位） | 不居中，固定缩进 | 后接扩展 (V.O.)/(O.S.)/(CONT'D) |
+| 括注 | 3.1" | 约 2.0" 宽 | 单行，动词为主 |
+| 对白 | 2.5" | 3.5" 宽（到 6.0"），约 35 字符 | 左对齐窄栏，栏内单倍行距 |
+| 转场 | 右对齐到 7.5" | 起于约 6.0" | `CUT TO:` 全大写带冒号 |
+| 页码 | 右上角，7.0"–7.5"，距顶 0.5" | 形如 `2.` | 第二页起 |
+
+一页≈一分钟的换算就建立在这张表上；改任何一项都会让页数失真。
+
+### 元素级约定
+
+- **(V.O.)**：说话者不在场景空间内——旁白、电话另一端、录音、内心独白。**(O.S.)**：在场景空间内但画面外（隔壁房间、门外）。电视稿常用 (O.C.) 等同 O.S.。可少用，但用时必须写对。
+- **(CONT'D)**：同一人物的对白被动作段打断后继续，人物名后加；跨页时页底加 `(MORE)`，下页人物名后 `(CONT'D)`——写作软件自动加，手写稿宁可调整分页。
+- **(PRE-LAP)**：下一场的声音先入本场结尾。**(INTO PHONE)** / **(ON PHONE)** 作括注；电话对方不可见用 (V.O.)，可加 (FILTERED)。
+- **双人对白**（dual dialogue）：两人同时说，并排两栏；Fountain 里在第二个人物名后加 `^`。
+- **蒙太奇 / 系列镜头**：`MONTAGE - 标题` 起，每条一行以 `--` 开头，`END MONTAGE` 或 `BACK TO SCENE` 收；`SERIES OF SHOTS` 同理。仍遵守前文"能避免就避免"。
+- **交叉剪辑**：`INTERCUT - 甲地 / 乙地` 后自由切换，不再重写场景标题。
+- **闪回**：场景标题前缀 `FLASHBACK - ` 或用 `BEGIN FLASHBACK` / `END FLASHBACK` 包住。
+- **字幕**：`SUPER: "十八号"`（动作段内）。
+- **声效与新出场人物**在动作段内全大写（英文稿）；中文稿用加粗或不标，一稿统一。
+
+### 输出格式契约：Fountain
+
+由 agent 产出的剧本**默认以 Fountain 纯文本交付**（`.fountain`），不是 Markdown、不是手敲空格的 txt。理由：Fountain 的元素与上表一一对应，可版本管理，能渲染成 PDF 或导出 .fdx。
+
+**核心记号**（完整规范见 fountain.io）：
+- 扉页：文件开头 `Title:` `Credit:` `Author:` `Draft date:` `Contact:` 键值对，空一行后正文。
+- 场景标题：以 `INT.` `EXT.` `INT./EXT.` `I/E` 开头的行自动识别；**强制**用行首 `.`（如 `.内 沈越家·客厅 夜`）。
+- 人物名：前有空行的全大写行自动识别；**强制**用行首 `@`（如 `@沈越`）。扩展直接跟在名后：`@小七 (V.O.)`。双人对白第二人名后加 `^`。
+- 括注：人物名下一行的 `(……)`。对白：人物名后连续行，空行结束。
+- 转场：以 `TO:` 结尾的全大写行自动识别；**强制**用行首 `>`（如 `> 切至：`）。居中：`> 剧终 <`。
+- 动作：其余段落；强制用行首 `!`。分页 `===`；注释 `[[…]]`；废稿 `/* … */`；章节 `#`；梗概 `=`；歌词 `~`。
+
+**中文稿必须用强制记号**：Fountain 靠大写和 INT./EXT. 识别元素，中文两者都不成立；所有场景标题加 `.`、所有人物名加 `@`、所有转场加 `>`，否则渲染出来全是动作段。
+
+**渲染路径**：Fountain → PDF：afterwriting（命令行）、Beat（macOS，免费）、Highland、Slugline；Fountain → .fdx：Fade In、Final Draft 直接导入，或 afterwriting 导出。中文渲染需指定 CJK 等宽字体（Sarasa Mono、Noto Sans Mono CJK），Courier 没有中文字形。
+
+**与 `sw-workflow` 的衔接**：阶段 5 的交付物就是 `.fountain` 文件；story-bible 只记文件名与页数。
+
+### 中文影视剧本：场号制
+
+现代中文电影/剧集行业稿的通行结构（各公司细节不同，一稿内统一即可；范例见 reference.md）：
+- **场景行**：`场号 时 内/外 地点`，如 `1. 日 内 沈越家·客厅`；剧集用 `集-场`（`3-12`）。时用 日/夜/晨/黄昏；顺序"日 内"或"内 日"两派，选一种。
+- **人物行**（可选）：`人物：沈越、小七`，列本场出场者。
+- **动作段**：段首 `△`（也有用 ▲ 或不加），现在时，一段一个动作单位。
+- **对白**：`人名：台词`，括注放人名后 `沈越（低声）：`；画外音标 `（OS）`/`（画外）`，旁白 `（VO）`/`（旁白）`。
+- **不写转场**；闪回在场景行加 `（回忆）`；字幕写 `字幕：`。
+- 剧集每集 40–45 分钟约 1.2–1.5 万字；分场大纲（每场一行）是场号制的前身，与 `sw-story-structure` 的步骤大纲同物。
+- 场号制**不用 Fountain**，直接纯文本交付；agent 输出前先问用户要好莱坞式还是场号制。
+
+### 日式剧本：柱・ト書き・セリフ
+
+- **柱（はしら）**：场景行，`○地点（时间）`，如 `○沈越の部屋・居間（夜）`；场号可写在 `○` 前。
+- **ト書き**：动作描写，段首空三个全角字；人物初次登场附年龄 `沈越（３４）`；时间经过用 `　　×　　×　　×`；停顿写 `（間）`。
+- **セリフ**：`人物名「台词」`，人名后直接接全角引号，不用冒号；括注写在名后 `小七（声）「…」`；`（Ｎ）` 旁白、`（Ｍ）` 独白、`（回想）` 加在柱上。
+- **稿次**：準備稿 → 改訂稿 → 決定稿，写在封面；印刷为竖排，文本文件横排即可。
+- 企画书（策划书）格式见 reference.md 第九节，与剧本格式是两种文档。
 
 ---
 
@@ -100,6 +170,7 @@ description: Screenplay format, page craft, the writing process and adaptation (
 9. 处理台本或大纲是否含潜文本而不含对白？跳过了哪一步？
 10. 修改是否先大概念后细节？删了掐头去尾？次要角色各有声音？节奏比页数优先？
 11. 改编：原素材的冲突主要在哪一层面？重新发明了什么？授权/期权签了吗？真实事件的"大问题"与"险象环生的过程"找到了吗？
+12. 输出：交付的是 `.fountain`（好莱坞式）或场号制纯文本，不是 Markdown？中文 Fountain 每个场景标题、人物名、转场都加了强制记号？V.O./O.S. 用对了？跨页对白有 (MORE)/(CONT'D)？用户要的是好莱坞式、场号制还是日式，问过了吗？
 
 ---
 
